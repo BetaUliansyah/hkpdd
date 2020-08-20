@@ -1,17 +1,7 @@
-# jekyll-rtd-theme
-[![](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg)][repository]
-[![](https://img.shields.io/gem/v/jekyll-rtd-theme)][rubygem]
-[![](https://img.shields.io/gem/dt/jekyll-rtd-theme)][rubygem]
-[![](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)][cdn]
-[![](https://www.codefactor.io/repository/github/rundocs/jekyll-rtd-theme/badge)][codefactor]
-[![](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com)
-[![](https://badges.gitter.im/rundocs/jekyll-rtd-theme.svg)][gitter]
+# Hubungan Keuangan Pusat, Daerah, dan Desa (HKPDD)
+Mata kuliah ini mengulas tentang konsep dan praktik Desentralisasi Fiskal di Indonesia. Mata kuliah ini ditujukan untuk mahasiswa PKN STAN Prodi Kebendaharaan Negara Semester 3.
 
-Just another documentation theme compatible with GitHub Pages, based on sphinx_rtd_theme
-
-![](https://user-images.githubusercontent.com/68011645/89026666-ad3a8680-d35b-11ea-9f4b-d3fe26ae12ed.png)
-
-## Features
+## Referensi
 - Automatically generate sidebar based on directory
 - Only need one file `_config.yml` to configure site
 - Search engine optimized
@@ -20,7 +10,7 @@ Just another documentation theme compatible with GitHub Pages, based on sphinx_r
 - Support third-party comments
 - Google, Baidu, CNZZ Analytics supported
 
-## Roadmap
+## Penilaian
 See the [open issues](https://github.com/rundocs/jekyll-rtd-theme/issues) for a list of proposed features (and known issues)
 
 ## Documents
